@@ -38,7 +38,7 @@
         <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_2f9f3fcfc3199a109421b71ed401310c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 06:25:32</sys_updated_on>
+        <sys_updated_on>2024-10-27 10:20:24</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -325,53 +325,7 @@ si.checkRainFall();&#13;
     <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=5abf3703c3599a109421b71ed4013104"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_2f9f3fcfc3199a109421b71ed401310c"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_2f9f3fcfc3199a109421b71ed401310c"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c^sys_idNOT IN52bf3703c3599a109421b71ed4013100,56bff303c3599a109421b71ed40131f9"/>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>__dont_treat_as_error__</element>
-        <help/>
-        <hint/>
-        <label>Don't Treat as Error</label>
-        <language>en</language>
-        <name>var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 06:16:22</sys_created_on>
-        <sys_id>52bf3703c3599a109421b71ed4013100</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c___dont_treat_as_error___en</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 06:16:22</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>__action_status__</element>
-        <help/>
-        <hint/>
-        <label>Action Status</label>
-        <language>en</language>
-        <name>var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 06:16:22</sys_created_on>
-        <sys_id>56bff303c3599a109421b71ed40131f9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Action Status</sys_name>
-        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c___action_status___en</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 06:16:22</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_2f9f3fcfc3199a109421b71ed401310c"/>
     <sys_hub_action_plan action="delete_multiple" query="action_id=2f9f3fcfc3199a109421b71ed401310c"/>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
@@ -696,53 +650,7 @@ si.checkRainFall();&#13;
     <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=3bbf7703c3599a109421b71ed4013134"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_6bbf7703c3599a109421b71ed401310d"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_6bbf7703c3599a109421b71ed401310d"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_6bbf7703c3599a109421b71ed401310d^sys_idNOT IN7bbf7703c3599a109421b71ed401311d,b3bf7703c3599a109421b71ed4013130"/>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>__action_status__</element>
-        <help/>
-        <hint/>
-        <label>Action Status</label>
-        <language>en</language>
-        <name>var__m_sys_hub_action_output_6bbf7703c3599a109421b71ed401310d</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 06:16:28</sys_created_on>
-        <sys_id>7bbf7703c3599a109421b71ed401311d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Action Status</sys_name>
-        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 06:16:28</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>__dont_treat_as_error__</element>
-        <help/>
-        <hint/>
-        <label>Don't Treat as Error</label>
-        <language>en</language>
-        <name>var__m_sys_hub_action_output_6bbf7703c3599a109421b71ed401310d</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 06:16:28</sys_created_on>
-        <sys_id>b3bf7703c3599a109421b71ed4013130</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 06:16:28</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_6bbf7703c3599a109421b71ed401310d"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_6bbf7703c3599a109421b71ed401310d"/>
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>2f9f3fcfc3199a109421b71ed401310c</sys_id>
